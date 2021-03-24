@@ -1,0 +1,13 @@
+Emotion,Valence,Arousal,Dominance
+anger,0.167,0.865,0.657
+anticipation,0.698,0.539,0.711
+disgust,0.052,0.775,0.317
+fear,0.073,0.84,0.293
+guilt,0.208,0.567,0.206
+joy,0.98,0.824,0.794
+negative,0.102,0.527,0.176
+positive,0.959,0.51,0.855
+sadness,0.052,0.288,0.164
+shame,0.06,0.67,0.155
+surprise,0.875,0.875,0.562
+trust,0.888,0.547,0.741

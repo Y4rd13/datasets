@@ -1,0 +1,19 @@
+Labels,Valence,Arousal,Dominance
+confident,0.765,0.324,0.723
+insecure,0.114,0.538,0.132
+handles pressure,0.698,0.593,0.861
+cant handle pressure,0.354,0.613,0.354
+patience,0.771,0.125,0.387
+impatience,0.278,0.78,0.411
+concentration,0.735,0.5,0.722
+dispersed,0.344,0.49,0.274
+calm,0.875,0.1,0.282
+agitated,0.444,0.882,0.491
+organized,0.816,0.337,0.746
+unorganized,0.26,0.657,0.173
+interested,0.75,0.529,0.725
+uninterested,0.365,0.24,0.328
+happy,1.0,0.735,0.772
+unhappy,0.112,0.5,0.155
+friendly,0.917,0.398,0.598
+unfriendly,0.173,0.67,0.458
